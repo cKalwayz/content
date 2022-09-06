@@ -1,4 +1,4 @@
----
+---<!DOCTYPE html>,
 title: Quirks Mode and Standards Mode
 slug: Web/HTML/Quirks_Mode_and_Standards_Mode
 tags:
